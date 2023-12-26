@@ -22,6 +22,8 @@ export default function RootLayout({
         <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>Gemini</title>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6916450801994185"
+        crossorigin="anonymous"></script>
       </head>
       <body className={inter.className}>
       <nav className="bg-sky-950">
